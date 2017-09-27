@@ -1,6 +1,6 @@
 ## 个人导航站  
 
-效果展示：[MyLink](link.xxin.live)
+效果展示：[MyLink](http://link.xxin.live)
 
 单纯的用于自己的网址收藏和导航，便于出行或其他地方使用的时候找不到相关网页  
 
